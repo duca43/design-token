@@ -1,5 +1,10 @@
 {
-  "global": {},
+  "global": {
+    "primary": {
+      "value": "#8e0356",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
